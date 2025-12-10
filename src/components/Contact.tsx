@@ -101,7 +101,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="mailto:contato@requintenoivas.com.br"
+            href="mailto:sonhalize@gmail.com.br"
             className="flex flex-col items-center text-center p-8 bg-white rounded-lg shadow-md hover:shadow-xl transition-all transform hover:-translate-y-1 cursor-pointer"
             style={{ textDecoration: "none" }}
           >
