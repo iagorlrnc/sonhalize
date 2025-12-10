@@ -4,11 +4,11 @@ import { colors } from "../constants/colors"
 
 const images = [
   {
-    url: "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    url: "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=1920",
     title: "Copos Personalizados",
   },
   {
-    url: "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    url: "https://images.pexels.com/photos/1755215/pexels-photo-1755215.jpeg?auto=compress&cs=tinysrgb&w=1920",
     title: "Canecas",
   },
   {
@@ -18,10 +18,6 @@ const images = [
   {
     url: "https://images.pexels.com/photos/1437318/pexels-photo-1437318.jpeg?auto=compress&cs=tinysrgb&w=800",
     title: "Taças",
-  },
-  {
-    url: "https://images.pexels.com/photos/5632350/pexels-photo-5632350.jpeg?auto=compress&cs=tinysrgb&w=1920",
-    title: "Xícaras",
   },
 ]
 

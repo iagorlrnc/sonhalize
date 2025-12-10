@@ -10,7 +10,7 @@ const categories = [
       "Copos personalizados para qualquer ocasião com design exclusivo",
     icon: Droplet,
     image:
-      "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=800",
   },
   {
     id: "canecas",
@@ -18,7 +18,7 @@ const categories = [
     description: "Canecas personalizadas perfeitas para presentes especiais",
     icon: Coffee,
     image:
-      "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1755215/pexels-photo-1755215.jpeg?auto=compress&cs=tinysrgb&w=800",
   },
   {
     id: "cases",
