@@ -22,7 +22,7 @@ export default function Contact() {
 
         <div className="grid grid-cols-2 sm:grid-cols-2 gap-8 max-w-4xl mx-auto">
           <a
-            href="https://wa.me/5511999999999?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20trajes"
+            href="https://wa.me/5511999999999"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center text-center p-8 bg-white rounded-lg shadow-md hover:shadow-xl transition-all transform hover:-translate-y-1 cursor-pointer"
@@ -44,12 +44,12 @@ export default function Contact() {
               className="hidden sm:block text-lg hover:opacity-70 transition-opacity"
               style={{ color: colors.secondary }}
             >
-              Fale conosco
+              Envie uma mensagem
             </span>
           </a>
 
           <a
-            href="https://instagram.com/requintenoivas"
+            href="https://instagram.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center text-center p-8 bg-white rounded-lg shadow-md hover:shadow-xl transition-all transform hover:-translate-y-1 cursor-pointer"
@@ -71,7 +71,7 @@ export default function Contact() {
               className="hidden sm:block text-lg hover:opacity-70 transition-opacity"
               style={{ color: colors.secondary }}
             >
-              @requintenoivas
+              @sonhalize
             </span>
           </a>
 
