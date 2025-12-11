@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom"
-import { Wine, Coffee, Smartphone, Droplet } from "lucide-react"
+import { Wine, Coffee, Smartphone, CupSoda } from "lucide-react"
 import { colors } from "../constants/colors"
 
 const categories = [
@@ -8,7 +8,7 @@ const categories = [
     title: "Copos",
     description:
       "Copos personalizados para qualquer ocasião com design exclusivo",
-    icon: Droplet,
+    icon: CupSoda,
     image:
       "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=800",
   },

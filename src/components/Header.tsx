@@ -77,7 +77,7 @@ export default function Header() {
             <button
               onClick={() => scrollToSection("form")}
               className="px-6 py-2 rounded-full text-white transition-all hover:opacity-90"
-              style={{ backgroundColor: colors.gold }}
+              style={{ backgroundColor: colors.primary }}
             >
               Solicitar Orçamento
             </button>
