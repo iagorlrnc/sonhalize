@@ -101,18 +101,18 @@ export default function Header() {
               Catálogo
             </button>
             <button
-              onClick={() => scrollToSection("location")}
-              className="text-left hover:opacity-70 transition-opacity"
-              style={{ color: colors.primary }}
-            >
-              Localização
-            </button>
-            <button
               onClick={() => scrollToSection("contact")}
               className="text-left hover:opacity-70 transition-opacity"
               style={{ color: colors.primary }}
             >
               Contato
+            </button>
+            <button
+              onClick={() => scrollToSection("horario")}
+              className="text-left hover:opacity-70 transition-opacity"
+              style={{ color: colors.primary }}
+            >
+              Horário
             </button>
             <button
               onClick={() => scrollToSection("form")}

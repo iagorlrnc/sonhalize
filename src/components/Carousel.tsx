@@ -64,7 +64,7 @@ export default function Carousel() {
   }
 
   return (
-    <section className="relative w-full h-[70vh] md:h-[80vh] overflow-hidden">
+    <section className="relative w-full h-[70vh] md:h-[80vh] overflow-hidden ">
       {/* Gradiente transparente superior */}
       <div 
         className="absolute top-0 left-0 right-0 h-32 z-20 pointer-events-none" 

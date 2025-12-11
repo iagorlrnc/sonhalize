@@ -15,7 +15,7 @@ export function BusinessHours() {
   return (
     <section
       id="horario"
-      className="py-20 px-4"
+      className="py-20 px-4 scroll-mt-20 md:scroll-mt-24"
       style={{ backgroundColor: colors.white }}
     >
       <div className="container mx-auto max-w-4xl">

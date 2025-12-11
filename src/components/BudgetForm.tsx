@@ -263,7 +263,7 @@ export default function BudgetForm() {
   return (
     <section
       id="form"
-      className="py-20 px-4 bg-white"
+      className="py-20 px-4 bg-white scroll-mt-20 md:scroll-mt-24"
       style={{ backgroundColor: colors.background }}
     >
       <div className="container mx-auto max-w-4xl">

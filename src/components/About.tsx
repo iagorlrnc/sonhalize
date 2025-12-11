@@ -23,7 +23,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="py-20 px-4 bg-white"
+      className="py-20 px-4 mt-8 bg-white scroll-mt-20 md:scroll-mt-24"
       style={{ backgroundColor: colors.background }}
     >
       <div className="container mx-auto max-w-6xl">
@@ -52,8 +52,11 @@ export default function About() {
               className="text-xl leading-relaxed font-semibold"
               style={{ color: colors.primary }}
             >
-              Na <span style={{ color: colors.gold }}>Sonhalize Personalizados</span>,
-              acreditamos que cada objeto merece uma história única.
+              Na{" "}
+              <span style={{ color: colors.gold }}>
+                Sonhalize Personalizados
+              </span>
+              , acreditamos que cada objeto merece uma história única.
             </p>
 
             <p
@@ -64,7 +67,6 @@ export default function About() {
               reflexo de sua personalidade e estilo. Combinamos tecnologia de
               ponta com design inovador para criar peças que impressionam.
             </p>
-
           </div>
 
           {/* Imagem redonda à direita */}
