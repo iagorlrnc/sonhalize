@@ -121,7 +121,7 @@ export default function Contact() {
               className="hidden sm:block text-lg hover:opacity-70 transition-opacity"
               style={{ color: colors.secondary }}
             >
-              contato@requintenoivas.com.br
+              sonhalize@gmail.com.br
             </span>
           </a>
         </div>

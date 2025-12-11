@@ -20,86 +20,84 @@ const categoryData = {
         id: 2,
         name: "Copo Térmico com Logo",
         image:
-          "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "https://images.pexels.com/photos/7262730/pexels-photo-7262730.jpeg?auto=compress&cs=tinysrgb&w=800",
         description: "Copo térmico que mantém bebidas quentes ou frias",
       },
       {
         id: 3,
-        name: "Copo Neon Colorido",
+        name: "Copo de Plástico",
         image:
-          "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "https://images.pexels.com/photos/35137081/pexels-photo-35137081.jpeg?auto=compress&cs=tinysrgb&w=800",
         description: "Copo personalizado em cores vibrantes",
       },
       {
         id: 4,
-        name: "Copo Premium com Alça",
+        name: "Copo",
         image:
-          "https://images.pexels.com/photos/159870/pexels-photo-159870.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Copo de vidro com alça e design elegante",
+          "https://images.pexels.com/photos/35130786/pexels-photo-35130786.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Copo",
       },
       {
         id: 5,
-        name: "Copo Acrílico Moderno",
+        name: "Copo Cerâmica Moderno",
         image:
-          "https://images.pexels.com/photos/5632350/pexels-photo-5632350.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description:
-          "Copo acrílico resistente com personalização em alta definição",
+          "https://images.pexels.com/photos/585753/pexels-photo-585753.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Copo de cerâmica com personalização em alta definição",
       },
       {
         id: 6,
-        name: "Copo Frost Gelado",
+        name: "Copo Descartável",
         image:
-          "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Copo com acabamento fosco personalizado",
+          "https://images.pexels.com/photos/87383/pexels-photo-87383.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Copo descartável",
       },
     ],
   },
   canecas: {
     title: "Canecas Personalizadas",
-    description:
-      "Canecas de qualidade premium perfeitas para presentear ou seu uso diário",
+    description: "Canecas de qualidade, para presentear ou seu uso diário",
     items: [
       {
         id: 1,
         name: "Caneca Clássica Branca",
         image:
-          "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "https://images.pexels.com/photos/1207918/pexels-photo-1207918.jpeg?auto=compress&cs=tinysrgb&w=800",
         description: "Caneca branca clássica com personalização em full color",
       },
       {
         id: 2,
         name: "Caneca Preta Premium",
         image:
-          "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "https://images.pexels.com/photos/129209/pexels-photo-129209.jpeg?auto=compress&cs=tinysrgb&w=800",
         description: "Caneca preta elegante com design personalizado",
       },
       {
         id: 3,
-        name: "Caneca com Alça Colorida",
+        name: "Caneca Colorida",
         image:
-          "https://images.pexels.com/photos/159870/pexels-photo-159870.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Caneca com alça em cores variadas",
+          "https://images.pexels.com/photos/3563623/pexels-photo-3563623.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Caneca em cores variadas",
       },
       {
         id: 4,
-        name: "Caneca Termossensível",
+        name: "Caneca",
         image:
-          "https://images.pexels.com/photos/5632350/pexels-photo-5632350.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Caneca mágica que muda de cor com o calor",
+          "https://images.pexels.com/photos/3806690/pexels-photo-3806690.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Caneca",
       },
       {
         id: 5,
-        name: "Caneca Cerâmica Artesanal",
+        name: "Caneca de Cerâmica",
         image:
-          "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Caneca cerâmica artesanal com personalização",
+          "https://images.pexels.com/photos/4577860/pexels-photo-4577860.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Caneca cerâmica com personalização",
       },
       {
         id: 6,
-        name: "Caneca Grande 450ml",
+        name: "Caneca Grande",
         image:
-          "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Caneca grande e espaçosa para suas bebidas favoritas",
+          "https://images.pexels.com/photos/3216564/pexels-photo-3216564.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Caneca grande",
       },
     ],
   },
@@ -109,46 +107,24 @@ const categoryData = {
     items: [
       {
         id: 1,
-        name: "Case de Silicone Flexível",
+        name: "Case de Silicone",
         image:
-          "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description:
-          "Case de silicone flexível e resistente com design personalizado",
+          "https://images.pexels.com/photos/850885/pexels-photo-850885.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Case de silicone com design personalizado",
       },
       {
         id: 2,
-        name: "Case Rígido Premium",
+        name: "Case Rígido",
         image:
-          "https://images.pexels.com/photos/159870/pexels-photo-159870.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Case rígido premium com proteção total",
+          "https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?auto=compress&cs=tinysrgb&w=800",
+        description: "Case rígido personalizado",
       },
       {
         id: 3,
-        name: "Case Espelhado Luxo",
+        name: "Case personalizado",
         image:
-          "https://images.pexels.com/photos/5632350/pexels-photo-5632350.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Case espelhado com acabamento luxuoso",
-      },
-      {
-        id: 4,
-        name: "Case com Suporte Integrado",
-        image:
-          "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Case com suporte para assistir vídeos",
-      },
-      {
-        id: 5,
-        name: "Case Texturizado Antiderrapante",
-        image:
-          "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Case com textura antiderrapante e design exclusivo",
-      },
-      {
-        id: 6,
-        name: "Case Holográfico Brilhante",
-        image:
-          "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Case holográfico com efeito brilhante especial",
+          "https://images.pexels.com/photos/18868637/pexels-photo-18868637.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Case personalizado",
       },
     ],
   },
@@ -159,94 +135,10 @@ const categoryData = {
     items: [
       {
         id: 1,
-        name: "Taça de Vinho Personalizada",
+        name: "Taça Personalizada",
         image:
-          "https://images.pexels.com/photos/159870/pexels-photo-159870.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Taça de vinho com gravação personalizada",
-      },
-      {
-        id: 2,
-        name: "Taça de Champagne Elegante",
-        image:
-          "https://images.pexels.com/photos/5632350/pexels-photo-5632350.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Taça de champagne de cristal com personalização",
-      },
-      {
-        id: 3,
-        name: "Taça de Coquetel Moderna",
-        image:
-          "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Taça moderna para coquetéis e drinks",
-      },
-      {
-        id: 4,
-        name: "Taça de Cristal Premium",
-        image:
-          "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Taça de cristal premium com acabamento sofisticado",
-      },
-      {
-        id: 5,
-        name: "Taça Colorida Artesanal",
-        image:
-          "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Taça colorida artesanal com design exclusivo",
-      },
-      {
-        id: 6,
-        name: "Taça Vintage Retrô",
-        image:
-          "https://images.pexels.com/photos/159870/pexels-photo-159870.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Taça com design vintage e retro elegante",
-      },
-    ],
-  },
-  xicaras: {
-    title: "Xícaras Premium",
-    description:
-      "Xícaras de qualidade para café, chá e bebidas quentes personalizadas",
-    items: [
-      {
-        id: 1,
-        name: "Xícara de Porcelana Branca",
-        image:
-          "https://images.pexels.com/photos/5632350/pexels-photo-5632350.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Xícara de porcelana branca com personalização",
-      },
-      {
-        id: 2,
-        name: "Xícara Vintage com Pires",
-        image:
-          "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Xícara vintage com pires combinado",
-      },
-      {
-        id: 3,
-        name: "Xícara Colorida com Alça",
-        image:
-          "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Xícara colorida com alça e design único",
-      },
-      {
-        id: 4,
-        name: "Xícara Espresso Premium",
-        image:
-          "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Xícara pequena para espresso personalizada",
-      },
-      {
-        id: 5,
-        name: "Xícara Grande para Cappuccino",
-        image:
-          "https://images.pexels.com/photos/159870/pexels-photo-159870.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Xícara grande para cappuccino e bebidas especiais",
-      },
-      {
-        id: 6,
-        name: "Xícara de Chá Delicada",
-        image:
-          "https://images.pexels.com/photos/5632350/pexels-photo-5632350.jpeg?auto=compress&cs=tinysrgb&w=800",
-        description: "Xícara delicada e elegante para chá",
+          "https://images.pexels.com/photos/3268735/pexels-photo-3268735.jpeg?auto=compress&cs=tinysrgb&w=800",
+        description: "Taça com gravação personalizada",
       },
     ],
   },
